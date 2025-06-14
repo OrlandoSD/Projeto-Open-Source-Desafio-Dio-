@@ -1,0 +1,21 @@
+logica-python/
+├── 01_variaveis_e_tipos/
+│   └── exercicios_variaveis.py
+├── 02_operadores_logicos_armazenamento/
+│   └── operadores_logicos.py
+├── 03_estrutura_condicional/
+│   └── if_else_elif.py
+├── 04_estrutura_de_repeticao/
+│   ├── for_loop.py
+│   └── while_loop.py
+├── 05_funcoes_e_modularizacao/
+│   └── funcoes_basicas.py
+├── 06_listas_e_tuplas/
+│   └── manipulacao_listas.py
+├── 07_dicionarios/
+│   └── exemplos_dicionario.py
+├── 08_praticando_logica/
+│   ├── jogo_adivinhacao.py
+│   ├── tabuada_interativa.py
+│   └── calculadora_simples.py
+└── README.md
